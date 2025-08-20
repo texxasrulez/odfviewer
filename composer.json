@@ -1,8 +1,12 @@
 {
-    "name": "kolab/odfviewer",
+    "name": "texxasrulez/odfviewer",
     "type": "roundcube-plugin",
     "description": "Open Document Viewer plugin",
     "homepage": "https://git.kolab.org/diffusion/RPK/",
+      "support": {
+    "issues": "https://github.com/texxasrulez/odfviewer/issues",
+    "source": "https://github.com/texxasrulez/odfviewer"
+  },
     "license": "AGPLv3",
     "version": "3.4.0",
     "authors": [
@@ -10,6 +14,10 @@
             "name": "Thomas Bruederli",
             "email": "bruederli@kolabsys.com",
             "role": "Lead"
+            
+            "name": "Gene Hawkins",
+            "email": "texxasrlez@yahoo.com",
+            "role": "Developer"
         }
     ],
     "repositories": [
